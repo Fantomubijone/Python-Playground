@@ -1,6 +1,6 @@
 message = 'Hello World'
 multiple_line = """Hello Python grind
-para kay saakin"""
+para kay Dars"""
 
 print(multiple_line)
 
@@ -20,7 +20,7 @@ message = message.replace('World', 'Universe') # needs to be assign because it c
 print(message)
 
 greeting = 'Hello'
-name = 'Carson'
+name = 'Dars'
 
 #concatanating string
 message = greeting + ", " +name # add multiple and concatenating them using '+'
